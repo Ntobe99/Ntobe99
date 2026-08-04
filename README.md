@@ -12,7 +12,6 @@ From backend wizardry to sleek frontends, I code with <strong>soul + precision</
 
 ## 🚀 About Me
 
-- 🎓 **BSc Mathematics & Computer Science**, building toward big dreams.
 - 💻 Deep into **Vue**, **Java Spring Boot**, and **Docker magic**.
 - 🧠 Fascinated by **Machine Learning** & **Cyber Security**, always experimenting.
 - 🤝 Open to collabs in **AI-driven platforms & impactful projects**.
